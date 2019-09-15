@@ -1,0 +1,24 @@
+body{
+    font-family: 'Merriweather', serif;
+    font-size: 16px;
+    background: black;
+    color: white;
+}
+h1{
+    font-size: 2.5em;
+    font-family: 'Squada One', cursive;
+    color: white;
+}
+input:focus{
+    border: navy;
+}
+#reset, #submit{
+    background: black;
+    font-size: 16px
+}
+#reset{
+    color: red;
+}
+#submit{
+    color: #4af320;
+}
